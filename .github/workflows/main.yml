@@ -1,5 +1,6 @@
-            - name: Deploy MkDocs
+            - name: MkDocs Action
   # You may pin to the exact commit or the version.
-  # uses: mhausenblas/mkdocs-deploy-gh-pages@d77dd03172e96abbcdb081d8c948224762033653
-  uses: mhausenblas/mkdocs-deploy-gh-pages@1.26
-          
+  # uses: Tiryoh/actions-mkdocs@c9944d37d46488196a79d8d5e128c1d2af8f3d78
+  uses: Tiryoh/actions-mkdocs@v0.23.0
+  with:
+ 
