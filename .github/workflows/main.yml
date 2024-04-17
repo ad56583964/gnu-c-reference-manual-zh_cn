@@ -1,0 +1,5 @@
+            - name: MkDocs builder
+  # You may pin to the exact commit or the version.
+  # uses: moonpathbg/mkdocs_builder@ba08fbe0cac32582546c73b418589b01f4791f3e
+  uses: moonpathbg/mkdocs_builder@latest
+          
